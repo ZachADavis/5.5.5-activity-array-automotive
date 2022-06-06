@@ -47,7 +47,7 @@ let dasAuto = new Car("Volkwagen", "Passat", "2022", "Pink", "0");
 console.log(dasAuto.make)
 
 dasAuto.start()
-dasAuto.loadPassengers(5)
+dasAuto.loadPassengers(454)
 dasAuto.stop()
 dasAuto.needService()
 console.log(dasAuto)
